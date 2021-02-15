@@ -1,0 +1,324 @@
+## Infant
+
+- INF Infant without a Seat
+- INN Individual Inclusive Tour Child
+- INR Infant without a Seat Resident
+- INS Infant with a Seat
+- INY Infant Accompanied By a Youth
+- ISR Infant with a Seat Resident
+- JNF Contract Bulk Infant without a Seat
+- JNS Contract Bulk Infant with a Seat
+- LIF Laborer/Worker Infant without a Seat
+- LNS Laborer/Worker Infant with a seat
+- ENF Electronic Ticket discount Infant
+- FNF Family Plan Infant
+
+## Children
+
+- JNN Contract Bulk Child
+- CHR Child Resident
+- CNN Accompanied Child
+- CSB Child Standby
+- DNN Child of European Parliament Member
+- ECH Electronic Ticket discount Child
+- ENN Group Inclusive Tour Child
+- FBC Numerous Family 1 Discount Child
+- FGC Numerous Family 2 Discount Child
+- FHC Numerous Family Honor Discount Child
+- FNN Family Plan Child
+- LNN Laborer/Worker Child
+- GNN Group Child
+- MDP Spouse/Dependent Children of Military Personnel
+- MNN Military Child
+- PNN Charter Child Passenger
+- TNN Frequent Flyer Child
+- UNN Unaccompanied Child
+- UNR Unaccompanied Child Resident
+- VNN Visit Another Country Child
+- YNN Government Travel Child
+- ZNN Group Visit Another Country Child
+
+## Adult
+
+- LTC Government Employee on Leave
+- ACC Accompanied Passenger
+- ACP
+- ADA Agent Discount AD75N1
+- ADD Adult with Discount
+- ADN Agent Discount AD50N1
+- ADR Adult Resident
+- ADT Adult
+- AEP Assistant of Member of European Parliament
+- AGT Agent
+- ANN Age Restricted Companion
+- ARP
+- ART
+- ASB Standby Passenger
+- ASC
+- ASF Air-sea Fare
+- ASI
+- AST Airline Staff Standby
+- BAG Baggage
+- BLD Blind Passenger
+- BNN Adult with Age Restriction
+- BRV Bereavement Passenger
+- BUD Airline Buddy Standby
+- CBC
+- CBI
+- CBO
+- CCH Card Carrying Holder(s)
+- CCM Card Carrying Member
+- PTC Description
+- CDT Discount Cardholder France and Overseas Depts
+- CEV Leisure Cardholder w/in France
+- CFM Cardholder w/in France
+- CLG Clergy
+- CMA Adult with Companion
+- CMM Commuter
+- CMP Companion
+- CMX
+- CNE
+- CNT Carnet Coupon Travel
+- CNV Convention Passenger
+- CPN Coupon Discount
+- CRR
+- CTZ Category Z
+- CUR
+- DEF
+- DIS Disabled person
+- DOD Department of Defense Passenger
+- DLU
+- EAC
+- EAQ
+- EAT
+- EAV
+- EDT Electronic Ticket discount Adult
+- EMI Emigrant
+- ENO
+- EPA
+- EPC
+- EPI
+- ESC
+- FBA Numerous Family 1 Discount Adult
+- FFA
+- FFC
+- FFD
+- FFE
+- FFP Frequent Flyer - Preferred
+- FFY Frequent Flyer
+- FGA Numerous Family 2 Discount Adult
+- FHA Numerous Family Honor Discount Adult
+- FIF Family Intra-France
+- FLY
+- FTE
+- GCF Government Contract Passenger
+- GCT City/County Government Travel
+- GDP Government Employee Dependent
+- PTC Description
+- GEX Government Exchange
+- GGV
+- GGZ
+- GIT Group Inclusive Tour
+- GMZ
+- GRP Group
+- GSP Group School Party
+- GST State Government Passenger
+- GVM
+- GVT Government Travel
+- GVZ
+- HNN
+- HOF Head of Family
+- ICP Incentive Certificates
+- INE
+- ITX Individual Inclusive Tour
+- JCB Contract Bulk Adult
+- JEB Journalist of European Cabinet
+- JEC Journalist of European Committee
+- JEP Journalist of European Parliament
+- JOB
+- KIF
+- KNN
+- LBR Laborer/Worker
+- LMG
+- LUV
+- MAI
+- MAM
+- MBT Military – Basic Training Graduate
+- MCP
+- MCR Military Charter Passenger
+- MCS MasterCard Purchase Only
+- MCU
+- MED Patients Traveling for Medical Treatment
+- MEP Member of European Parliament
+- MIL Military Confirmed
+- MIR Military Reserves on Active Duty
+- MIS Missionary
+- MLZ
+- MML
+- MPA Military Parents/Parents In Law
+- MRE Retired Military/Military Dependent
+- MSB Military Standby
+- MSG Multi State Government Passenger
+- PTC Description
+- MUS Military/DOD based in USA
+- MXS Military/DOD not based in USA
+- NAT NATO Passenger
+- NEG
+- NRF
+- NRR
+- NSB Nonrevenue Standby
+- NTA
+- NTL National/Citizen of a Specified Country
+- NUR
+- OEB Official of European Cabinet
+- OEC Official of European Committee
+- OEI Official of European Committee Institute
+- OEP Official of European Parliament
+- OTS Passengers Occupying Two Seats
+- PAP
+- PCA
+- PCB
+- PCF
+- PCP
+- PCR Charter Adult Passenger
+- PFA
+- PFB
+- PFC
+- PFD
+- PFE
+- PFF
+- PFG
+- PFH
+- PFI
+- PFJ
+- PFK
+- PFL
+- PTC Description PPD PPD
+- PPE
+- PPF
+- PFM
+- PFN
+- PFO
+- PFP
+- PFQ
+- PFR
+- PFS
+- PFT
+- PFU
+- PFV
+- PFW
+- PFX
+- PFY
+- PFZ
+- PHP
+- PIF
+- PIL Pilgrim
+- PIP
+- PMP
+- PNA
+- PNT
+- PPG
+- PPH
+- PPI
+- PPJ
+- PPK
+- PPL
+- PPM
+- PPN
+- PPO
+- PPP
+- PPQ
+- PPR
+- PPS
+- PPT
+- PPU
+- PPV
+- PPW
+- PPX
+- PPY
+- PPZ
+- PRA
+- PRB
+- PRC
+- PRD
+- PRE
+- PRF
+- PRG
+- PON
+- POS
+- PPA
+- PPB
+- PPC
+- PRH
+- PRI
+- PRJ
+- PTC Description
+- SDB Student Standby
+- SEA Seaman
+- SEP Spouse of European Parliament
+- SME
+- SNN Restricted Senior Citizen With Multiple Age Reqs
+- SPA Accompanied Spouse
+- SPH Head of Family Spouse
+- SPL
+- SPS Spouse
+- SPT Sports Passenger
+- SRC Senior Citizen
+- STF Staff
+- STR State Resident
+- STU Student
+- TEA Teacher(s)
+- TIA Tijeretazo Seasonal Discount Program
+- TIM Timesaver
+- TUR Tour Conductor
+- TUX Restricted Tour Conductor
+- UDA Agent Discount UD75N1
+- UDN Agent Discount UD50N1
+- UNV University Employee
+- VAC Visit Another Country Adult
+- VAG Group Visit Another Country Adult
+- VFR Visit Friends/Relatives
+- WCR
+- PRK
+- PRL
+- PRM
+- PRN
+- PRO
+- PRP
+- PRQ
+- PRR
+- PRS
+- PRT
+- PRU
+- PRV
+- PRW
+- PRX
+- PRY
+- PRZ
+- PSB
+- PSP
+- PSR
+- PST
+- PTT Program T Discount Program
+- QMY
+- REC Military Recruit REF Refugee
+- RIF
+- RNN
+- SCC Senior Discounted Companion
+- PTC Description
+- WEB Internet Fares
+- WFA
+- WTA
+- WTS
+- YCB Senior Citizen Standby
+- YCR Charter Youth Passenger
+- YSB Youth Standby
+- YTH Youth Confirmed
+- ZCA
+- ZCC
+- ZCI
+- ZEA
+- ZEC
+- ZED Zonal Employee Discount
+- ZEI
+- ZPA
